@@ -1,0 +1,27 @@
+,Team,Opp,Pts,Sack,Int,Saf,FR,Blk,TD,PA,PassYds,RushYds,TotYds
+0,New York Jets,Mia,26.00,4.0,2,0,1,0,1,6,190,118,308
+1,Chicago Bears,Min,20.00,5.0,0,1,0,0,1,10,233,53,286
+2,Cincinnati Bengals,Ind,19.00,1.0,1,0,2,1,1,17,179,94,273
+3,Philadelphia Eagles,@Was,17.00,2.0,4,0,0,0,0,13,245,42,287
+4,Dallas Cowboys,@NE,15.00,3.0,2,0,2,0,0,20,270,101,371
+5,Green Bay Packers,Stl,15.00,3.0,1,0,0,0,0,3,306,118,424
+6,Oakland Raiders,Cle,14.00,2.0,0,0,1,0,1,17,203,65,268
+7,Houston Texans,@Bal,12.00,2.0,1,0,1,0,1,29,289,113,402
+8,Pittsburgh Steelers,Jax,12.00,5.0,0,0,0,0,0,13,76,133,209
+9,Tampa Bay Buccaneers,NO,12.00,0.0,3,0,1,0,0,20,383,70,453
+10,Atlanta Falcons,Car,11.00,1.0,3,0,0,0,0,17,229,139,368
+11,San Francisco 49ers,@Det,11.00,5.0,0,1,0,0,0,19,244,66,310
+12,New England Patriots,Dal,10.00,2.0,1,0,1,0,0,16,300,77,377
+13,Washington Redskins,Phi,10.00,2.0,2,0,0,0,0,20,230,192,422
+14,Baltimore Ravens,Hou,8.00,4.0,0,0,0,0,0,14,200,93,293
+15,New York Giants,Buf,8.00,3.0,2,0,0,0,0,24,219,155,374
+16,Detroit Lions,SF,7.00,2.0,1,0,1,0,0,25,111,203,314
+17,Jacksonville Jaguars,@Pit,7.00,3.0,0,0,0,0,0,17,185,185,370
+18,Cleveland Browns,@Oak,5.00,2.0,0,0,1,0,0,24,178,151,329
+19,Miami Dolphins,@NYJ,5.00,2.0,0,0,1,0,0,24,192,104,296
+20,St. Louis Rams,@GB,4.00,1.0,1,0,0,0,0,24,309,90,399
+21,Buffalo Bills,@NYG,3.00,0.0,0,0,0,1,0,27,292,122,414
+22,Minnesota Vikings,@Chi,3.00,1.0,0,0,1,0,0,39,258,119,377
+23,Carolina Panthers,@Atl,1.00,1.0,0,0,0,0,0,31,159,166,325
+24,Indianapolis Colts,@Cin,1.00,0.0,0,0,0,0,0,27,264,94,358
+25,New Orleans Saints,@TB,1.00,0.0,0,0,0,0,0,26,303,117,420

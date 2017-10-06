@@ -1,0 +1,33 @@
+,Team,Opp,Pts,Sack,Int,Saf,FR,Blk,TD,PA,PassYds,RushYds,TotYds
+0,Carolina Panthers,@Dal,24.00,2.0,3,0,0,0,2,14,179,31,210
+1,Cincinnati Bengals,Stl,20.00,1.0,3,0,0,0,1,7,251,94,345
+2,Baltimore Ravens,@Cle,17.00,2.0,0,0,0,1,2,27,275,63,338
+3,Minnesota Vikings,@Atl,15.00,2.0,2,0,1,0,0,10,210,116,326
+4,Houston Texans,NO,14.00,2.0,1,0,0,0,0,6,218,50,268
+5,Indianapolis Colts,TB,14.00,5.0,1,0,0,0,0,12,212,132,344
+6,Arizona Cardinals,@SF,13.00,2.0,1,0,1,0,0,13,301,67,368
+7,Chicago Bears,@GB,13.00,2.0,1,0,1,0,0,13,188,177,365
+8,Washington Redskins,NYG,13.00,3.0,3,0,0,0,0,14,299,33,332
+9,Detroit Lions,Phi,12.00,6.0,0,0,1,0,0,14,159,68,227
+10,New York Jets,Mia,11.00,3.0,1,0,1,0,0,20,321,12,333
+11,Cleveland Browns,Bal,10.00,0.0,2,0,0,0,1,33,232,104,336
+12,Seattle Seahawks,Pit,10.00,2.0,4,0,0,0,0,30,480,58,538
+13,Oakland Raiders,@Ten,9.00,2.0,2,0,0,1,0,21,205,44,249
+14,Atlanta Falcons,Min,6.00,0.0,1,0,0,0,0,20,174,191,365
+15,Denver Broncos,NE,6.00,3.0,0,0,1,0,0,24,262,39,301
+16,Kansas City Chiefs,Buf,6.00,1.0,0,0,2,0,0,22,286,129,415
+17,New York Giants,@Was,6.00,0.0,0,0,0,1,0,20,302,105,407
+18,Tennessee Titans,Oak,6.00,1.0,0,0,2,0,0,24,323,84,407
+19,Green Bay Packers,Chi,5.00,1.0,0,0,0,0,0,17,189,101,290
+20,New England Patriots,@Den,5.00,3.0,1,0,0,0,0,30,254,179,433
+21,San Diego Chargers,@Jax,5.00,2.0,1,0,0,0,0,25,318,102,420
+22,San Francisco 49ers,Ari,5.00,1.0,0,0,0,0,0,19,267,70,337
+23,Jacksonville Jaguars,SD,4.00,2.0,0,0,0,1,0,31,290,79,369
+24,New Orleans Saints,@Hou,4.00,1.0,1,0,0,0,0,24,195,167,362
+25,Pittsburgh Steelers,@Sea,4.00,2.0,0,0,0,1,0,39,336,100,436
+26,Tampa Bay Buccaneers,@Ind,4.00,3.0,0,0,0,0,0,25,309,27,336
+27,Dallas Cowboys,Car,3.00,1.0,0,0,0,1,0,33,165,129,294
+28,Philadelphia Eagles,@Det,2.00,2.0,0,0,0,0,0,45,322,108,430
+29,St. Louis Rams,@Cin,2.00,0.0,1,0,0,0,0,31,236,140,376
+30,Buffalo Bills,@KC,1.00,1.0,0,0,0,0,0,30,255,158,413
+31,Miami Dolphins,@NYJ,1.00,1.0,0,0,0,0,0,38,274,137,411
