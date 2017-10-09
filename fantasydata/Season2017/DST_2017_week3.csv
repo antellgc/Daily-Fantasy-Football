@@ -1,0 +1,33 @@
+Rk,ID,Player,Pos,Week,Team,Opp,Opp Rank,Opp Pos Rank,Salary,Projection
+1,28,Pittsburgh Steelers,DST,3,PIT,CHI,--,--,3400,8.7
+2,14,Indianapolis Colts,DST,3,IND,CLE,--,--,3200,8.5
+3,21,New England Patriots,DST,3,NE,HOU,--,--,3800,8.5
+4,48,Dallas Cowboys,DST,3,DAL,ARI,--,--,2900,8.5
+5,52,Jacksonville Jaguars,DST,3,JAX,BAL,--,--,3400,8.4
+6,95,Tampa Bay Buccaneers,DST,3,TB,MIN,--,--,3200,8.4
+7,36,Baltimore Ravens,DST,3,BAL,JAX,--,--,3900,8.3
+8,64,Miami Dolphins,DST,3,MIA,NYJ,--,--,3700,8.3
+9,26,Philadelphia Eagles,DST,3,PHI,NYG,--,--,3000,8.1
+10,32,Los Angeles Rams,DST,3,LAR,SF,--,--,3500,7.8
+11,49,Denver Broncos,DST,3,DEN,BUF,--,--,3600,7.8
+12,12,Green Bay Packers,DST,3,GB,CIN,--,--,3400,7.8
+13,37,Buffalo Bills,DST,3,BUF,DEN,--,--,2600,7.7
+14,67,Minnesota Vikings,DST,3,MIN,TB,--,--,3300,7.7
+15,8,Cleveland Browns,DST,3,CLE,IND,--,--,3000,7.2
+16,55,Kansas City Chiefs,DST,3,KC,LAC,--,--,2900,7.2
+17,5,Carolina Panthers,DST,3,CAR,NO,--,--,2600,7
+18,93,San Francisco 49ers,DST,3,SF,LAR,--,--,2900,6.6
+19,75,New York Giants,DST,3,NYG,PHI,--,--,3100,6.5
+20,83,Oakland Raiders,DST,3,OAK,WAS,--,--,2500,6.4
+21,2,Atlanta Falcons,DST,3,ATL,DET,--,--,2500,6.2
+22,90,Seattle Seahawks,DST,3,SEA,TEN,--,--,3500,6.1
+23,69,New Orleans Saints,DST,3,NO,CAR,--,--,2000,6
+24,34,Tennessee Titans,DST,3,TEN,SEA,--,--,2700,5.9
+25,82,New York Jets,DST,3,NYJ,MIA,--,--,2100,5.8
+26,7,Cincinnati Bengals,DST,3,CIN,GB,--,--,2500,5.7
+27,38,Chicago Bears,DST,3,CHI,PIT,--,--,2200,5.6
+28,84,Los Angeles Chargers,DST,3,LAC,KC,--,--,2800,5.4
+29,1,Arizona Cardinals,DST,3,ARI,DAL,--,--,3000,5.1
+30,97,Washington Redskins,DST,3,WAS,OAK,--,--,2400,4.6
+31,13,Houston Texans,DST,3,HOU,NE,--,--,2300,3.9
+32,11,Detroit Lions,DST,3,DET,ATL,--,--,2400,3.7

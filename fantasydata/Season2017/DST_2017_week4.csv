@@ -1,0 +1,33 @@
+Rk,ID,Player,Pos,Week,Team,Opp,Opp Rank,Opp Pos Rank,Salary,Projection
+1,7,Cincinnati Bengals,DST,4,CIN,CLE,--,--,3500,9.3
+2,90,Seattle Seahawks,DST,4,SEA,IND,--,--,4500,9.2
+3,12,Green Bay Packers,DST,4,GB,CHI,--,--,3600,8.5
+4,52,Jacksonville Jaguars,DST,4,JAX,NYJ,--,--,3600,8.5
+5,48,Dallas Cowboys,DST,4,DAL,LAR,--,--,2500,8
+6,28,Pittsburgh Steelers,DST,4,PIT,BAL,--,--,3500,7.9
+7,1,Arizona Cardinals,DST,4,ARI,SF,--,--,3200,7.7
+8,95,Tampa Bay Buccaneers,DST,4,TB,NYG,--,--,3400,7.7
+9,21,New England Patriots,DST,4,NE,CAR,--,--,3400,7.5
+10,34,Tennessee Titans,DST,4,TEN,HOU,--,--,3300,7.4
+11,75,New York Giants,DST,4,NYG,TB,--,--,2900,7.4
+12,67,Minnesota Vikings,DST,4,MIN,DET,--,--,3100,7.3
+13,26,Philadelphia Eagles,DST,4,PHI,LAC,--,--,3300,7.1
+14,84,Los Angeles Chargers,DST,4,LAC,PHI,--,--,2500,7.1
+15,36,Baltimore Ravens,DST,4,BAL,PIT,--,--,3000,7
+16,83,Oakland Raiders,DST,4,OAK,DEN,--,--,2300,6.9
+17,93,San Francisco 49ers,DST,4,SF,ARI,--,--,2200,6.8
+18,55,Kansas City Chiefs,DST,4,KC,WAS,--,--,3100,6.7
+19,11,Detroit Lions,DST,4,DET,MIN,--,--,2700,6.2
+20,8,Cleveland Browns,DST,4,CLE,CIN,--,--,2400,6.1
+21,69,New Orleans Saints,DST,4,NO,MIA,--,--,2600,6
+22,64,Miami Dolphins,DST,4,MIA,NO,--,--,2400,6
+23,49,Denver Broncos,DST,4,DEN,OAK,--,--,3300,6
+24,38,Chicago Bears,DST,4,CHI,GB,--,--,2100,5.8
+25,2,Atlanta Falcons,DST,4,ATL,BUF,--,--,3200,5.8
+26,14,Indianapolis Colts,DST,4,IND,SEA,--,--,2600,5.8
+27,82,New York Jets,DST,4,NYJ,JAX,--,--,2600,5.5
+28,97,Washington Redskins,DST,4,WAS,KC,--,--,2500,5.2
+29,13,Houston Texans,DST,4,HOU,TEN,--,--,3000,5
+30,32,Los Angeles Rams,DST,4,LAR,DAL,--,--,2800,4.8
+31,5,Carolina Panthers,DST,4,CAR,NE,--,--,2300,4.2
+32,37,Buffalo Bills,DST,4,BUF,ATL,--,--,2300,4.1

@@ -1,0 +1,33 @@
+Rk,ID,Player,Pos,Week,Team,Opp,Opp Rank,Opp Pos Rank,Salary,Projection
+1,90,Seattle Seahawks,DST,15,SEA,LAR,--,--,4000,11.9
+2,37,Buffalo Bills,DST,15,BUF,CLE,--,--,3700,9.9
+3,13,Houston Texans,DST,15,HOU,JAX,--,--,3800,9.2
+4,36,Baltimore Ravens,DST,15,BAL,PHI,--,--,3100,8.9
+5,67,Minnesota Vikings,DST,15,MIN,IND,--,--,3500,8.8
+6,64,Miami Dolphins,DST,15,MIA,NYJ,--,--,3200,8.4
+7,12,Green Bay Packers,DST,15,GB,CHI,--,--,3200,8.4
+8,21,New England Patriots,DST,15,NE,DEN,--,--,2800,8.1
+9,69,New Orleans Saints,DST,15,NO,ARI,--,--,2400,7.7
+10,55,Kansas City Chiefs,DST,15,KC,TEN,--,--,3400,7.7
+11,26,Philadelphia Eagles,DST,15,PHI,BAL,--,--,2900,7.4
+12,83,Oakland Raiders,DST,15,OAK,LAC,--,--,2700,7.3
+13,2,Atlanta Falcons,DST,15,ATL,SF,--,--,3900,7.1
+14,11,Detroit Lions,DST,15,DET,NYG,--,--,2600,7
+15,97,Washington Redskins,DST,15,WAS,CAR,--,--,2600,7
+16,75,New York Giants,DST,15,NYG,DET,--,--,2900,6.8
+17,48,Dallas Cowboys,DST,15,DAL,TB,--,--,2700,6.6
+18,1,Arizona Cardinals,DST,15,ARI,NO,--,--,3000,6.5
+19,32,Los Angeles Rams,DST,15,LAR,SEA,--,--,2600,6.4
+20,82,New York Jets,DST,15,NYJ,MIA,--,--,3300,6.3
+21,49,Denver Broncos,DST,15,DEN,NE,--,--,3600,6.3
+22,34,Tennessee Titans,DST,15,TEN,KC,--,--,2700,6.2
+23,38,Chicago Bears,DST,15,CHI,GB,--,--,2400,6.2
+24,28,Pittsburgh Steelers,DST,15,PIT,CIN,--,--,2800,6.1
+25,5,Carolina Panthers,DST,15,CAR,WAS,--,--,2900,6.1
+26,7,Cincinnati Bengals,DST,15,CIN,PIT,--,--,2800,6
+27,95,Tampa Bay Buccaneers,DST,15,TB,DAL,--,--,2500,5.8
+28,14,Indianapolis Colts,DST,15,IND,MIN,--,--,2500,5.8
+29,52,Jacksonville Jaguars,DST,15,JAX,HOU,--,--,2600,5.5
+30,84,Los Angeles Chargers,DST,15,LAC,OAK,--,--,2700,5.2
+31,93,San Francisco 49ers,DST,15,SF,ATL,--,--,2300,4.4
+32,8,Cleveland Browns,DST,15,CLE,BUF,--,--,2200,3.9
