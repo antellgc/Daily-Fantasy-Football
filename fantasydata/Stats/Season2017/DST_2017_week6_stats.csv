@@ -1,0 +1,29 @@
+Rk,ID,Player,Pos,Week,Team,Opp,TFL,Sacks,QB Hits,Int,Fum Rec,Safeties,Def TD,Return TD,Pts Allowed,Fantasy Points
+1,69,New Orleans Saints,DST,6,NO,DET,10,5,8,3,2,0,3,0,38,32
+2,13,Houston Texans,DST,6,HOU,CLE,7,4,7,3,0,1,1,0,17,22
+3,32,Los Angeles Rams,DST,6,LAR,JAX,10,5,8,1,0,0,0,2,17,22
+4,75,New York Giants,DST,6,NYG,DEN,5,4,4,2,1,0,1,0,10,22
+5,36,Baltimore Ravens,DST,6,BAL,CHI,11,4,8,0,2,0,0,2,27,20
+6,11,Detroit Lions,DST,6,DET,NO,2,0,3,2,1,0,1,1,52,17
+7,38,Chicago Bears,DST,6,CHI,BAL,5,3,3,2,1,0,1,0,24,15
+8,67,Minnesota Vikings,DST,6,MIN,GB,6,4,13,3,0,0,0,0,10,14
+9,8,Cleveland Browns,DST,6,CLE,HOU,5,1,7,1,0,0,1,0,33,9
+10,21,New England Patriots,DST,6,NE,NYJ,8,4,10,2,0,0,0,0,17,9
+11,28,Pittsburgh Steelers,DST,6,PIT,KC,5,3,9,0,0,1,0,0,13,9
+12,26,Philadelphia Eagles,DST,6,PHI,CAR,8,2,9,3,0,0,0,0,23,8
+13,95,Tampa Bay Buccaneers,DST,6,TB,ARI,7,2,4,1,1,0,1,0,38,8
+14,1,Arizona Cardinals,DST,6,ARI,TB,4,2,6,2,0,0,0,0,33,6
+15,84,Los Angeles Chargers,DST,6,LAC,OAK,4,1,1,2,0,0,0,0,16,6
+16,49,Denver Broncos,DST,6,DEN,NYG,6,3,3,0,0,0,0,0,23,6
+17,93,San Francisco 49ers,DST,6,SF,WAS,9,1,6,1,1,0,0,0,26,5
+18,97,Washington Redskins,DST,6,WAS,SF,6,3,10,1,0,0,0,0,24,5
+19,64,Miami Dolphins,DST,6,MIA,ATL,5,2,5,1,0,0,0,0,17,5
+20,52,Jacksonville Jaguars,DST,6,JAX,LAR,7,3,5,0,1,0,0,0,27,5
+21,14,Indianapolis Colts,DST,6,IND,TEN,4,1,6,1,0,0,1,0,36,5
+22,5,Carolina Panthers,DST,6,CAR,PHI,8,3,8,0,1,0,0,0,28,4
+23,12,Green Bay Packers,DST,6,GB,MIN,8,0,4,1,1,0,0,0,23,4
+24,82,New York Jets,DST,6,NYJ,NE,1,0,4,1,1,0,0,0,24,4
+25,55,Kansas City Chiefs,DST,6,KC,PIT,4,1,2,1,0,0,0,0,19,4
+26,83,Oakland Raiders,DST,6,OAK,LAC,1,1,4,0,1,0,0,0,17,4
+27,34,Tennessee Titans,DST,6,TEN,IND,2,1,5,0,1,0,0,0,22,4
+28,2,Atlanta Falcons,DST,6,ATL,MIA,4,0,2,1,0,0,0,0,20,3
